@@ -41,6 +41,7 @@ gem "wysiwyg-rails"
 gem 'public_activity', '~> 1.5'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem "font-awesome-rails"
 
 
 group :development, :test do
